@@ -23,8 +23,8 @@ ExperQuick brings clarity with integrated workflows, ensuring reproducibility an
 ---
 
 ## 🧰 Our Tools
-- **[LwFlow](https://github.com/ExperQuick/LwFlow)**: A lightweight, domain-agnostic framework for managing experiments and workflows.
-- **[PyTorchLabFlow](#)**: LwFlow with Deep learning plug-in. It is under development but you can access  a limited  version at [BBEK-Anand/PyTorchLabFlow](https://github.com/BBEK-Anand/PyTorchLabFlow)
+- **[PyLabFlow](https://github.com/ExperQuick/PyLabFlow)**: A lightweight, domain-agnostic framework for managing experiments and workflows.
+- **[PyTorchLabFlow](#)**: PyLabFlow with Deep learning plug-in. It is under development but you can access  a limited  version at [BBEK-Anand/PyTorchLabFlow](https://github.com/BBEK-Anand/PyTorchLabFlow)
 
 ---
 
@@ -49,7 +49,9 @@ We believe the future of science is **open, modular, and reproducible**. By buil
 ## 🔗 Connect With Us
 - 🌐 [Website](https://www.experquick.org)
 - 💻 [GitHub](https://github.com/ExperQuick)
+- 💼 [LinkedIn](https://www.linkedin.com/company/experquick)
 
 ---
 
 © 2025 **ExperQuick** — Open, transparent, and collaborative research infrastructure for the next era of science.
+
