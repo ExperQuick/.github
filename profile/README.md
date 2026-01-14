@@ -1,11 +1,11 @@
-# ExperQuick — Open Infrastructure for Scientific Research
+# ExperQuick Research Infa
 
-**ExperQuick** is an open-source initiative enabling transparent, scalable, and collaborative scientific experimentation. Build, manage, and reproduce research workflows with ease.
+**ExperQuick** is an initiative enabling transparent, scalable, and collaborative scientific experimentation. Build, manage, and reproduce research workflows with ease.
 
 ## 🌍 Our Mission
 To provide easy interface to research and/or experimental mess.
 
-To make researchers and R&D section focus more on decision making rather than managing  codes/ experimental-configs their atifacts etc.
+To make researchers and R&D section focus more on decision making rather than managing  codes/ experimental-configs their atifacts etc  all.
 
 ---
 
