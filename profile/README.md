@@ -1,4 +1,4 @@
-# ExperQuick Research Infa
+# ExperQuick Research Infra
 
 **ExperQuick** is an initiative enabling transparent, scalable, and collaborative scientific experimentation. Build, manage, and reproduce research workflows with ease.
 
